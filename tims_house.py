@@ -1,6 +1,6 @@
 solution=lambda t:-(-t//5)
 
-# Changes made by CB
+
 
 # def solution(distance:int):
 #     while distance != 0:
